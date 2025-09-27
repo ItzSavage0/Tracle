@@ -47,8 +47,8 @@ module.exports = {
     AUTO_TYPING: convertToBool(process.env.AUTO_TYPING, false),
 
     // === OWNER & BOT DETAILS ===
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "2348150221529",
-    OWNER_NAME: process.env.OWNER_NAME || "Brenald Media",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "23278886907",
+    OWNER_NAME: process.env.OWNER_NAME || "SAVAGE",
     BOT_NAME: process.env.BOT_NAME || "TRACLE",
     PREFIX: process.env.PREFIX || ".",
     STICKER_NAME: process.env.STICKER_NAME || "TRACLE",
